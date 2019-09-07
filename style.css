@@ -1,0 +1,140 @@
+body{
+  background-color: lightgray;
+  margin: 0px;
+}
+nav{
+  background-color: black;
+}
+#g{
+  color: white;
+  text-decoration: none;
+  padding: 50px;
+  font-size: 30px;
+}
+#p1{
+  margin-left: 100px;
+  font-size: 100px;
+  font-family: times;
+  list-style-type: none;
+}
+#players{
+  margin-left: 150px;
+  font-size: 40px;
+  padding: inherit;
+  margin-top: 30px;
+  list-style-type: none;
+}
+#is{
+  width: 100px;
+  border-radius: 50%;
+}
+#cake{
+  margin-top: 30px;
+}
+#can{
+  width: 100px;
+}
+#con{
+  margin-top: 30px;
+}
+#f{
+  text-decoration: none;
+  color: black;
+}
+#im{
+  text-align: center;
+  font-size: 60px;
+  margin-top: 250px;
+  color: white;
+}
+#doing{
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: 30px;
+  color: white;
+}
+#stole{
+  text-decoration: none;
+  color: black;
+}
+#acake{
+  text-align: center;
+  font-size: 60px;
+  margin-top: 250px;
+  color: white;
+}
+#body1{
+  background-image: url("https://cdna.artstation.com/p/assets/images/images/011/847/666/large/paul-mader-summer.jpg?1531751270&dl=1");
+  background-position: center;
+  background-attachment: fixed;
+}
+#istole{
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: 30px;
+  color: white;
+}
+#body2{
+  background-image: url("https://cdna.artstation.com/p/assets/images/images/011/847/666/large/paul-mader-summer.jpg?1531751270&dl=1");
+  background-position: center;
+  background-attachment: fixed;
+}
+#kul{
+  text-decoration: none;
+  color: black;
+}
+#rad{
+  text-align: center;
+  font-size: 60px;
+  margin-top: 250px;
+  color: white;
+}
+#O{
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: 30px;
+  color: white;
+}
+#body3{
+  background-image: url("https://cdna.artstation.com/p/assets/images/images/011/847/666/large/paul-mader-summer.jpg?1531751270&dl=1");
+  background-position: center;
+  background-attachment: fixed;
+}
+#hh{
+  font-size: 70px;
+  text-align: center;
+}
+#ii{
+  text-align: center;
+  font-size: 30px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 30px;
+}
+#video{
+text-align: center;
+}
+#socials{
+  font-size: 70px;
+  text-align: center;
+  margin-top: 60px;
+}
+#pa{
+  text-align: center;
+  font-size: 30px;
+  margin-top: auto;
+  margin-right: 250px;
+  margin-left: 250px;
+}
+#link{
+  text-decoration: none;
+  color: black;
+  font-size: 50px;
+  text-align: center;
+}
+#stream{
+  text-align: center;
+}
